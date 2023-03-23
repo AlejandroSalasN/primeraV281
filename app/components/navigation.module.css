@@ -1,0 +1,9 @@
+.header {
+    padding: 4px;
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
